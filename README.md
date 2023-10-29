@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Anushka Kakkar</h1>
-<h3 align="center">A passionate data analyst from India</h3>
+<h3 align="center">A passionate Frontend Developer</h3>
 
-- 🔭 I’m currently working on **ML for Reconfigurable Intelligent Surface**
+- 🔭 I’m currently working on **HTML,CSS,REACTJS and ANGULAR**
 
 - 🌱 I’m currently learning **Data Science and Machine Learning**
 
-- 💬 Ask me about **python, Data Science, Machine Learning**
+- 💬 Ask me about **python, Data Science, Machine Learning, ReactJS**
 
-- 📫 How to reach me **kakkarhimani8@gmail.com**
+- 📫 How to reach me **kakkaranushka11@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
